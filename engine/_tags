@@ -1,0 +1,5 @@
+true: package(batteries), package(str)
+true: package(core)
+true: package(str)
+true: thread
+true: package(aez)
