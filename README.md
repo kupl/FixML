@@ -1,7 +1,7 @@
 # FixML
 
 FixML tool for providing personalized feedback to students.
-It corrects the logical error for function programming assignments.
+It corrects the logical error for functional programming assignments.
 The tool is licensed under the [MIT license](LICENSE.txt).
 
 ## Basic Settings
@@ -20,7 +20,8 @@ You can install the libraries using opam with follwing commands:
 ```bash
 opam install core
 opam install batteries
-...
+opam install menhir
+opam install aez
 ```
 
 ## Build
